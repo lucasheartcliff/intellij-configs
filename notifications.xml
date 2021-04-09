@@ -1,0 +1,5 @@
+<application>
+  <component name="NotificationConfiguration">
+    <notification groupId="Download Shared Index Log" />
+  </component>
+</application>
