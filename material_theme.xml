@@ -2,6 +2,7 @@
   <component name="MaterialThemeConfig">
     <option name="customTreeIndentEnabled" value="true" />
     <option name="highlightColorEnabled" value="true" />
+    <option name="allowDataCollection" value="true" />
     <option name="isHighlightColorEnabled" value="true" />
     <option name="isCustomTreeIndentEnabled" value="true" />
     <option name="pristineConfig" value="false" />
@@ -10,6 +11,6 @@
     <option name="accentColor" value="ff79c5" />
     <option name="selectedTheme" value="DRACULA" />
     <option name="userId" value="-1715fee6:17648e8c123:-8000" />
-    <option name="version" value="6.3.2" />
+    <option name="version" value="6.3.3" />
   </component>
 </application>
