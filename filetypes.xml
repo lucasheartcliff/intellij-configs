@@ -2,6 +2,8 @@
   <component name="FileTypeManager" version="18">
     <extensionMap>
       <mapping pattern="src" type="AUTO_DETECTED" />
+      <mapping pattern="SpringSecurityWebAppConfig.java" type="AUTO_DETECTED" />
+      <mapping pattern="SpringSecurityWebAppConfig" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="configdb" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
