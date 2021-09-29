@@ -3,6 +3,7 @@
     <option name="TRUSTED_PATHS">
       <list>
         <option value="$USER_HOME$/live-apps" />
+        <option value="$USER_HOME$/personal" />
       </list>
     </option>
   </component>
