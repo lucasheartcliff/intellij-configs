@@ -4,7 +4,7 @@
     <property name="created">2021-07-28T17:43:35</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.0.0</property>
-    <property name="modified">2021-10-06T16:33:21</property>
+    <property name="modified">2021-10-06T16:50:51</property>
     <property name="originalScheme">Dracula (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -900,12 +900,12 @@
     <option name="HAML_RUBY_CODE" baseAttributes="" />
     <option name="HAML_TAG" baseAttributes="" />
     <option name="HAML_TEXT" baseAttributes="" />
-    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_NAME" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
@@ -3242,14 +3242,14 @@
         <option name="FOREGROUND" value="8aff80" />
       </value>
     </option>
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
-    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="XML_PROLOGUE" baseAttributes="" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="f8f8f2" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
+    <option name="XML_TAG_DATA" baseAttributes="" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="f780bf" />
