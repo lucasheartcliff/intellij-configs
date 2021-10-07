@@ -1,4 +1,7 @@
 <application>
+  <component name="CodeInsightSettings">
+    <EXCLUDED_PACKAGE NAME="net.intelie.live.Live" />
+  </component>
   <component name="DefaultFont">
     <option name="FONT_SIZE" value="22" />
     <option name="FONT_FAMILY" value="Fira Code" />
