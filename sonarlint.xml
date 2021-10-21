@@ -7,6 +7,7 @@
       <Rule active="false" key="java:S1170" />
       <Rule active="false" key="java:S135" />
       <Rule active="false" key="java:S3599" />
+      <Rule active="false" key="java:S1854" />
       <Rule active="false" key="java:S116" />
       <Rule active="false" key="java:S3776" />
       <Rule active="false" key="java:S1611" />

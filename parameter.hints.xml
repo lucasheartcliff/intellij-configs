@@ -1,0 +1,9 @@
+<application>
+  <component name="ParameterNameHintsSettings">
+    <blacklists>
+      <blacklist language="Java">
+        <added pattern="com.google.common.collect.ImmutableMap.of(k1,v1,k2,v2,k3,v3,k4,v4)" />
+      </blacklist>
+    </blacklists>
+  </component>
+</application>
