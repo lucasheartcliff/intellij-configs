@@ -4,7 +4,7 @@
     <property name="created">2021-10-15T11:19:04</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.3.0.0</property>
-    <property name="modified">2021-11-03T14:07:35</property>
+    <property name="modified">2021-11-05T10:29:54</property>
     <property name="originalScheme">Material Darker</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -224,9 +224,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="" />
+    <option name="BASH.SHEBANG" baseAttributes="" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="ff9800" />
@@ -486,9 +486,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
+    <option name="Class" baseAttributes="" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="89ddff" />
@@ -3031,10 +3031,10 @@
         <option name="FOREGROUND" value="eeffff" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
-    <option name="PROPERTIES.KEY" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.KEY" baseAttributes="" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="219598" />
@@ -3130,14 +3130,14 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
-    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.BRACES" baseAttributes="" />
+    <option name="REGEXP.BRACKETS" baseAttributes="" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.META" baseAttributes="" />
+    <option name="REGEXP.PARENTHS" baseAttributes="" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
     <option name="REGEXP_MATCHED_GROUPS">
       <value>
         <option name="BACKGROUND" value="616161" />
@@ -3676,7 +3676,7 @@
         <option name="FOREGROUND" value="ffcb6b" />
       </value>
     </option>
-    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
+    <option name="Static method access" baseAttributes="" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="eeffff" />
@@ -3832,9 +3832,9 @@
         <option name="FOREGROUND" value="f07178" />
       </value>
     </option>
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="f07178" />
