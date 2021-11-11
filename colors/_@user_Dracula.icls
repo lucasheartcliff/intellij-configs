@@ -4,7 +4,7 @@
     <property name="created">2020-12-09T16:12:23</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2020.3.0.0</property>
-    <property name="modified">2021-11-10T08:14:54</property>
+    <property name="modified">2021-11-11T08:38:19</property>
     <property name="originalScheme">Dracula</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.2" />
@@ -835,7 +835,7 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
