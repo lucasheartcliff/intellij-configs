@@ -4,7 +4,7 @@
     <property name="created">2021-09-08T15:47:12</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.1.0.0</property>
-    <property name="modified">2021-11-11T14:35:31</property>
+    <property name="modified">2021-11-11T16:31:30</property>
     <property name="originalScheme">Moonlight (Material)</property>
   </metaInfo>
   <option name="LINE_SPACING" value="1.4" />
@@ -237,9 +237,9 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="BASH.HERE_DOC_END" baseAttributes="" />
-    <option name="BASH.HERE_DOC_START" baseAttributes="" />
-    <option name="BASH.SHEBANG" baseAttributes="" />
+    <option name="BASH.HERE_DOC_END" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.HERE_DOC_START" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="BASH.SHEBANG" baseAttributes="BASH.LINE_COMMENT" />
     <option name="BLINKING_HIGHLIGHTS_ATTRIBUTES">
       <value>
         <option name="EFFECT_COLOR" value="4fd6be" />
@@ -498,9 +498,9 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
-    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="" />
-    <option name="Class" baseAttributes="" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
     <option name="Closure braces">
       <value>
         <option name="FOREGROUND" value="7fdaff" />
@@ -1102,11 +1102,11 @@
         <option name="FONT_TYPE" value="2" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
     <option name="HTML_CODE">
       <value />
     </option>
-    <option name="HTML_ENTITY_REFERENCE" baseAttributes="" />
+    <option name="HTML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
     <option name="HTML_TAG">
       <value>
         <option name="FOREGROUND" value="b4c2f0" />
@@ -2969,9 +2969,9 @@
         <option name="FOREGROUND" value="e4f3fa" />
       </value>
     </option>
-    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="" />
-    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="" />
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
+    <option name="PROPERTIES.INVALID_STRING_ESCAPE" baseAttributes="DEFAULT_INVALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.KEY_VALUE_SEPARATOR" baseAttributes="DEFAULT_OPERATION_SIGN" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="PROTOCOL_REFERENCE">
       <value>
         <option name="FOREGROUND" value="7af8ca" />
@@ -3048,14 +3048,14 @@
         <option name="FOREGROUND" value="34d3fb" />
       </value>
     </option>
-    <option name="REGEXP.BRACES" baseAttributes="" />
-    <option name="REGEXP.BRACKETS" baseAttributes="" />
-    <option name="REGEXP.CHAR_CLASS" baseAttributes="" />
-    <option name="REGEXP.ESC_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.META" baseAttributes="" />
-    <option name="REGEXP.PARENTHS" baseAttributes="" />
-    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="" />
-    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="" />
+    <option name="REGEXP.BRACES" baseAttributes="DEFAULT_BRACES" />
+    <option name="REGEXP.BRACKETS" baseAttributes="DEFAULT_BRACKETS" />
+    <option name="REGEXP.CHAR_CLASS" baseAttributes="DEFAULT_ENTITY" />
+    <option name="REGEXP.ESC_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.META" baseAttributes="DEFAULT_KEYWORD" />
+    <option name="REGEXP.PARENTHS" baseAttributes="DEFAULT_PARENTHS" />
+    <option name="REGEXP.QUOTE_CHARACTER" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="REGEXP.REDUNDANT_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
     <option name="REST.FIXED">
       <value>
         <option name="BACKGROUND" value="202431" />
@@ -3590,7 +3590,7 @@
     </option>
     <option name="Scala Type Alias" baseAttributes="" />
     <option name="Scala Type parameter" baseAttributes="" />
-    <option name="Static method access" baseAttributes="" />
+    <option name="Static method access" baseAttributes="STATIC_METHOD_ATTRIBUTES" />
     <option name="Static property reference ID">
       <value>
         <option name="FOREGROUND" value="ffdb8e" />
@@ -3733,15 +3733,15 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="XML_ATTRIBUTE_NAME" baseAttributes="" />
-    <option name="XML_ENTITY_REFERENCE" baseAttributes="" />
-    <option name="XML_PROLOGUE" baseAttributes="" />
+    <option name="XML_ATTRIBUTE_NAME" baseAttributes="DEFAULT_ATTRIBUTE" />
+    <option name="XML_ENTITY_REFERENCE" baseAttributes="DEFAULT_ENTITY" />
+    <option name="XML_PROLOGUE" baseAttributes="TEXT" />
     <option name="XML_TAG">
       <value>
         <option name="FOREGROUND" value="7fdbca" />
       </value>
     </option>
-    <option name="XML_TAG_DATA" baseAttributes="" />
+    <option name="XML_TAG_DATA" baseAttributes="TEXT" />
     <option name="XML_TAG_NAME">
       <value>
         <option name="FOREGROUND" value="ff757f" />
@@ -3764,7 +3764,7 @@
         <option name="FONT_TYPE" value="1" />
       </value>
     </option>
-    <option name="YAML_ANCHOR" baseAttributes="" />
+    <option name="YAML_ANCHOR" baseAttributes="DEFAULT_IDENTIFIER" />
     <option name="YAML_SCALAR_KEY">
       <value>
         <option name="FOREGROUND" value="ff6363" />
