@@ -3,7 +3,7 @@
     <property name="created">2021-09-27T15:43:43</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-15T14:37:31</property>
+    <property name="modified">2021-11-15T14:43:27</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
   <colors>
@@ -70,7 +70,7 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="DEFAULT_METADATA" />
+    <option name="ANNOTATION_NAME_ATTRIBUTES" baseAttributes="" />
     <option name="ANONYMOUS_CLASS_NAME_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -309,7 +309,6 @@
       <value>
         <option name="FOREGROUND" value="8be9fd" />
         <option name="EFFECT_COLOR" value="8be9fd" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -1738,7 +1737,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="STATIC_METHOD_ATTRIBUTES" baseAttributes="" />
     <option name="SWIFT_ATTRIBUTE_NAME">
       <value>
         <option name="FOREGROUND" value="50fa7b" />
