@@ -3,7 +3,7 @@
     <property name="created">2021-09-27T15:43:43</property>
     <property name="ide">Idea</property>
     <property name="ideVersion">2021.2.2.0.0</property>
-    <property name="modified">2021-11-19T13:55:52</property>
+    <property name="modified">2021-11-19T17:01:47</property>
     <property name="originalScheme">Dracula Colorful</property>
   </metaInfo>
   <colors>
@@ -309,7 +309,6 @@
       <value>
         <option name="FOREGROUND" value="8be9fd" />
         <option name="EFFECT_COLOR" value="8be9fd" />
-        <option name="EFFECT_TYPE" value="-1" />
       </value>
     </option>
     <option name="CUSTOM_INVALID_STRING_ESCAPE_ATTRIBUTES">
@@ -340,14 +339,14 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="DEFAULT_STRING" />
+    <option name="CUSTOM_STRING_ATTRIBUTES" baseAttributes="" />
     <option name="CUSTOM_VALID_STRING_ESCAPE_ATTRIBUTES">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
       </value>
     </option>
-    <option name="Class" baseAttributes="CLASS_NAME_ATTRIBUTES" />
-    <option name="Closure braces" baseAttributes="Braces" />
+    <option name="Class" baseAttributes="" />
+    <option name="Closure braces" baseAttributes="" />
     <option name="DEFAULT_ATTRIBUTE">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -851,7 +850,7 @@
         <option name="FOREGROUND" value="8be9fd" />
       </value>
     </option>
-    <option name="Groovy method declaration" baseAttributes="METHOD_DECLARATION_ATTRIBUTES" />
+    <option name="Groovy method declaration" baseAttributes="" />
     <option name="Groovy parameter">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
@@ -888,7 +887,7 @@
         <option name="FOREGROUND" value="50fa7b" />
       </value>
     </option>
-    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="DEFAULT_STRING" />
+    <option name="HTML_ATTRIBUTE_VALUE" baseAttributes="" />
     <option name="HTML_ENTITY_REFERENCE">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -1119,7 +1118,7 @@
         <option name="FOREGROUND" value="6272a4" />
       </value>
     </option>
-    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="DEFAULT_STATIC_METHOD" />
+    <option name="KOTLIN_PACKAGE_FUNCTION_CALL" baseAttributes="" />
     <option name="KOTLIN_PACKAGE_PROPERTY">
       <value>
         <option name="FOREGROUND" value="bd93f9" />
@@ -1362,7 +1361,7 @@
         <option name="EFFECT_TYPE" value="1" />
       </value>
     </option>
-    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="DEFAULT_VALID_STRING_ESCAPE" />
+    <option name="PROPERTIES.VALID_STRING_ESCAPE" baseAttributes="" />
     <option name="PROTOTEXT_IDENTIFIER">
       <value>
         <option name="FOREGROUND" value="8be9fd" />
@@ -1943,10 +1942,10 @@
         <option name="FOREGROUND" value="ff79c6" />
       </value>
     </option>
-    <option name="XPATH.FUNCTION" baseAttributes="DEFAULT_FUNCTION_CALL" />
-    <option name="XPATH.KEYWORD" baseAttributes="DEFAULT_KEYWORD" />
-    <option name="XPATH.XPATH_NAME" baseAttributes="TEXT" />
-    <option name="XPATH.XPATH_VARIABLE" baseAttributes="DEFAULT_LOCAL_VARIABLE" />
+    <option name="XPATH.FUNCTION" baseAttributes="" />
+    <option name="XPATH.KEYWORD" baseAttributes="" />
+    <option name="XPATH.XPATH_NAME" baseAttributes="" />
+    <option name="XPATH.XPATH_VARIABLE" baseAttributes="" />
     <option name="YAML_ANCHOR">
       <value>
         <option name="FOREGROUND" value="ffb86c" />
