@@ -6,6 +6,7 @@
       <mapping pattern="SpringSecurityWebAppConfig" type="AUTO_DETECTED" />
       <mapping pattern="run" type="AUTO_DETECTED" />
       <mapping pattern="configdb" type="AUTO_DETECTED" />
+      <mapping pattern="BarrierStatusThresholdPersistenceImpl" type="AUTO_DETECTED" />
       <mapping ext="space.kts" type="Kotlin" />
       <mapping ext="gradle.kts" type="Kotlin" />
       <mapping ext="main.kts" type="Kotlin" />
